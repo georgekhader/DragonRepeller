@@ -1,6 +1,10 @@
 **Dragon Repeller** 
 Welcome to Dragon Repeller, an interactive text-based adventure game where you must defeat the dragon that is preventing people from leaving the town. You find yourself in the town square, and your choices will determine the outcome of the story.
 
+**Getting Started** 
+Clone the repository to your local machine using the following command:
+**git clone https://github.com/georgekhader/DragonRepeller.git**
+
 **Gameplay**
 Dragon Repeller is an interactive fiction game where your decisions shape the narrative. Navigate through different locations in the town square and choose your actions wisely to defeat the dragon and save the town.
 
