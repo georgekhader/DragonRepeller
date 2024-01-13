@@ -12,7 +12,7 @@ Exciting dragon encounter and battle
 If you'd like to contribute to Dragon Repeller, feel free to submit pull requests with new features, bug fixes, or improvements. We appreciate your contributions!
 
 **License**
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 **Acknowledgments**
 Dragon Repeller was inspired by classic text-based adventure games. Have fun playing and may you defeat the dragon!
